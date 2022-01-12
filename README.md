@@ -1,2 +1,1 @@
-# WebMaster
-Here I will replace the code examples of all sites, which I will do during my career as a webmaster
+This is an example of a multipage that I made for a Ukrainian company. The site is simple, without animation, mostly text and tables
